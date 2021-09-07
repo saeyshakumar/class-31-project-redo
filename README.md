@@ -1,1 +1,2 @@
-# class-31-project-redo
+# zombie-crush-boilerplate
+boilerplate for crush the zombie game
